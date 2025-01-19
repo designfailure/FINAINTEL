@@ -8,6 +8,9 @@ The #workflow overview focuses on summarizing financial news articles through a 
 
 Data Collection involves gathering financial news articles through two primary methods. The first method is Web Scraping, utilizing libraries such as BeautifulSoup and Scrapy to extract articles from reputable financial news sources like Bloomberg, Reuters, and Financial Times. The second method is API Integration, where tools like NewsAPI are employed to programmatically fetch articles, ensuring a steady stream of relevant content.
 
+![data colection 01](https://github.com/user-attachments/assets/1f33e23e-bc19-435d-b9e0-b405ed9265d3)
+
+
 Following data collection, the Data Preprocessing stage is crucial. This includes Text Cleaning, which removes special characters, HTML tags, and stop words to enhance the quality of the text. Next, Text Normalization converts all text to lowercase and applies stemming to reduce words to their base forms. The text is then split into manageable pieces through Tokenization, allowing for easier analysis. Additionally, Metadata Extraction captures essential information such as publication date, source, and relevant tags.
 
 The core of this phase is the Summarization process. Here, model selection is pivotal; pre-trained models like T5 and BERT are utilized to generate concise summaries that reflect the main points and essential details of the original articles. The final output consists of these summaries stored in a structured format such as JSON or CSV.
