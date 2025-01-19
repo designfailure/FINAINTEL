@@ -1,7 +1,8 @@
 # FINAINTEL
-""Financial AI and News Intelligence"" -  financial news summarization and sentiment analysis pipeline
 
-The #workflow overview focuses on summarizing financial news articles through a structured approach involving data collection, preprocessing, summarization, and output storage. The phase pipeline also involves analyzing the sentiment of the summarized articles.
+"Financial AI and News Intelligence" -  financial news summarization and sentiment analysis pipeline
+
+The workflow overview focuses on summarizing financial news articles through a structured approach involving data collection, preprocessing, summarization, and output storage. The phase pipeline also involves analyzing the sentiment of the summarized articles.
 
 ![Financial NEWS summarization   sentiment ](https://github.com/user-attachments/assets/c7fdb800-0806-436a-a0da-3c24537c160a)
 
@@ -45,5 +46,8 @@ For fine-tuning it could be used the “financial summarization” dataset from 
 
 Integrating social listening tools and libraries into the financial news summarization and sentiment analysis pipeline can significantly enhance the overall system by providing a more comprehensive view of public sentiment and perception around financial news. Here’s how embedded social listening tools and libraries can enhance the pipeline.
 https://www.meltwater.com/en/suite/social-listening-analytics
+
 https://mentionmind.com/
+
 https://github.com/obsei/obsei 
+
