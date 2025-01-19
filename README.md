@@ -13,6 +13,9 @@ Data Collection involves gathering financial news articles through two primary m
 
 Following data collection, the Data Preprocessing stage is crucial. This includes Text Cleaning, which removes special characters, HTML tags, and stop words to enhance the quality of the text. Next, Text Normalization converts all text to lowercase and applies stemming to reduce words to their base forms. The text is then split into manageable pieces through Tokenization, allowing for easier analysis. Additionally, Metadata Extraction captures essential information such as publication date, source, and relevant tags.
 
+![data colection 02](https://github.com/user-attachments/assets/bca29489-5d90-4fec-8c3c-fc2ceed583c6)
+
+
 The core of this phase is the Summarization process. Here, model selection is pivotal; pre-trained models like T5 and BERT are utilized to generate concise summaries that reflect the main points and essential details of the original articles. The final output consists of these summaries stored in a structured format such as JSON or CSV.
 
 Additional preprocessing ensures that these summaries are clean and tokenized for effective analysis. The heart of this phase is the Sentiment Analysis, which involves selecting an appropriate model like FinBERT for sentiment classification. Each summary is classified as positive, negative, or neutral based on its content. Furthermore, the analysis distinguishes between varying degrees of sentiment, such as strongly positive or mildly negative.
