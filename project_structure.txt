@@ -1,0 +1,23 @@
+financial_news_analyzer/
+├── config/
+│   └── config.yaml
+├── src/
+│   ├── data_collection/
+│   │   ├── __init__.py
+│   │   ├── news_scraper.py
+│   │   └── news_api_client.py
+│   ├── preprocessing/
+│   │   ├── __init__.py
+│   │   └── text_cleaner.py
+│   ├── summarization/
+│   │   ├── __init__.py
+│   │   └── summarizer.py
+│   ├── sentiment/
+│   │   ├── __init__.py
+│   │   └── analyzer.py
+│   └── visualization/
+│       ├── __init__.py
+│       └── dashboard.py
+├── tests/
+├── requirements.txt
+└── main.py 
