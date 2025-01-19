@@ -41,3 +41,9 @@ https://finance-gist-ai.lovable.app/
 
 For fine-tuning it could be used the “financial summarization” dataset from HuggingFace, https://huggingface.co/datasets/Lightscale/financial-advise-summarization or using the https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
 
+#SOCIAL LISTENING#
+
+Integrating social listening tools and libraries into the financial news summarization and sentiment analysis pipeline can significantly enhance the overall system by providing a more comprehensive view of public sentiment and perception around financial news. Here’s how embedded social listening tools and libraries can enhance the pipeline.
+https://www.meltwater.com/en/suite/social-listening-analytics
+https://mentionmind.com/
+https://github.com/obsei/obsei 
