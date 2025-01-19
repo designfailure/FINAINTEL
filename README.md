@@ -6,6 +6,8 @@ The workflow overview focuses on summarizing financial news articles through a s
 
 ![Financial NEWS summarization   sentiment ](https://github.com/user-attachments/assets/c7fdb800-0806-436a-a0da-3c24537c160a)
 
+![image](https://github.com/user-attachments/assets/823a40a6-0d1e-47cd-863a-229650cc6b7f)
+
 
 Data Collection involves gathering financial news articles through two primary methods. The first method is Web Scraping, utilizing libraries such as BeautifulSoup and Scrapy to extract articles from reputable financial news sources like Bloomberg, Reuters, and Financial Times. The second method is API Integration, where tools like NewsAPI are employed to programmatically fetch articles, ensuring a steady stream of relevant content.
 
