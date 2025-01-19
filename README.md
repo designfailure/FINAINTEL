@@ -20,6 +20,9 @@ The core of this phase is the Summarization process. Here, model selection is pi
 
 Additional preprocessing ensures that these summaries are clean and tokenized for effective analysis. The heart of this phase is the Sentiment Analysis, which involves selecting an appropriate model like FinBERT for sentiment classification. Each summary is classified as positive, negative, or neutral based on its content. Furthermore, the analysis distinguishes between varying degrees of sentiment, such as strongly positive or mildly negative.
 
+![sentiment analyzer](https://github.com/user-attachments/assets/f4d02fe3-6c2e-47d5-8863-94a656f2dbc8)
+
+
 The output from this phase includes Sentiment Scores, which are stored in a structured format for further use.
 Finally, an Evaluation step assesses the performance of both the summarization and sentiment analysis models using metrics like ROUGE and F-1 scores. Visualization tools such as Grafana are employed to present results and performance metrics clearly.
 
