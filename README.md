@@ -25,6 +25,8 @@ Additional preprocessing ensures that these summaries are clean and tokenized fo
 
 The output from this phase includes Sentiment Scores, which are stored in a structured format for further use.
 Finally, an Evaluation step assesses the performance of both the summarization and sentiment analysis models using metrics like ROUGE and F-1 scores. Visualization tools such as Grafana are employed to present results and performance metrics clearly.
+![image](https://github.com/user-attachments/assets/811c5e00-a389-4b8e-bb84-a627355167b6)
+
 
 This comprehensive workflow effectively combines data collection, processing, summarization, sentiment analysis, and evaluation to provide valuable insights into financial news trends and sentiments.
 
