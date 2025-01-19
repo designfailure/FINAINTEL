@@ -30,5 +30,14 @@ Finally, an Evaluation step assesses the performance of both the summarization a
 
 This comprehensive workflow effectively combines data collection, processing, summarization, sentiment analysis, and evaluation to provide valuable insights into financial news trends and sentiments.
 
+https://finance-narrator.lovable.app/
+![image](https://github.com/user-attachments/assets/6eab0a80-fc96-4f51-ac37-292f94b34a55)
 
+
+https://finance-gist-ai.lovable.app/
+![image](https://github.com/user-attachments/assets/ba3845c6-a70a-4b1e-80db-fa7b10042747)
+
+
+
+For fine-tuning it could be used the “financial summarization” dataset from HuggingFace, https://huggingface.co/datasets/Lightscale/financial-advise-summarization or using the https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
 
