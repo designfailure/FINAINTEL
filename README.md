@@ -1,4 +1,7 @@
 # FINAINTEL
+![image](https://github.com/user-attachments/assets/402b7ddb-229f-4bab-87c5-9df74eed397b)
+
+
 
 "Financial AI and News Intelligence" -  financial news summarization and sentiment analysis pipeline
 
