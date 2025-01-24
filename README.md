@@ -112,6 +112,4 @@ This project is structured in two essential phases:
 *   Data Visualization: Grafana integration for advanced dashboards.
 *   Email Notifications: Sending summaries and sentiment analysis results via email.
 *   Social Listening: Integration with social media data using tools like Meltwater, MentionMind, Obsei.
-
-This markdown provides a concise overview of the project's goals, phases, and key components. You can use this as a starting point for project documentation or presentations.
-
+*   
