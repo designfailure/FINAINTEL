@@ -63,7 +63,7 @@ https://github.com/obsei/obsei
 
 ## Project Objective
 
-To develop an intelligent application that uses Generative AI to summarize financial news articles from various sources and analyze the sentiment expressed in these articles and their summaries. The goal is to provide concise, accurate, and informative summaries along with sentiment classifications (positive, negative, or neutral) to aid financial analysis and decision-making.
+An intelligent application that uses Generative AI to summarize financial news articles from various sources and analyze the sentiment expressed in these articles and their summaries. The goal is to provide concise, accurate, and informative summaries along with sentiment classifications (positive, negative, or neutral) to aid financial analysis and decision-making.
 
 ## Project Phases
 
