@@ -1,5 +1,8 @@
 # FINAINTEL
 
+https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing
+
+
 "Financial AI and News Intelligence" -  financial news summarization and sentiment analysis pipeline
 
 The workflow overview focuses on summarizing financial news articles through a structured approach involving data collection, preprocessing, summarization, and output storage. The phase pipeline also involves analyzing the sentiment of the summarized articles.
