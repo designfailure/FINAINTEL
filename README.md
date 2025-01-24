@@ -56,3 +56,56 @@ https://mentionmind.com/
 
 https://github.com/obsei/obsei 
 
+# Intelligent GenAI-Driven Financial News Summarization and Sentiment Analysis
+
+## Project Objective
+
+An intelligent application that uses Generative AI to summarize financial news articles from various sources and analyze the sentiment expressed in these articles and their summaries. The goal is to provide concise, accurate, and informative summaries along with sentiment classifications (positive, negative, or neutral) to aid financial analysis and decision-making.
+
+## Project Phases
+
+This project is structured in two essential phases:
+
+**Phase 1: Financial News Summarization**
+
+*   **Objective:** To build a system capable of summarizing financial news content from web pages and news APIs.
+*   **Data Sources:**
+    *   Web Scraping: Bloomberg, Reuters, Financial Times, Finance.si
+    *   News APIs: NewsAPI
+*   **Tools & Libraries:**
+    *   Web Scraping: `beautifulsoup4`, `requests`
+    *   News API: `newsapi-python`
+    *   Text Preprocessing: `nltk` (stopwords, tokenization), `re`
+    *   Summarization Model: `transformers` (Hugging Face `pipeline`, e.g., `facebook/bart-large-cnn`)
+*   **Expected Outcomes:**
+    *   Accurate summaries reflecting main points and details of original articles.
+    *   Summaries in clear, fluent language, understandable for non-experts.
+    *   Concise summaries preserving overall meaning and context.
+    *   Focus on financially relevant information (company performance, market trends, etc.).
+    *   Reflection of the original article's tone in the summary.
+
+**Phase 2: Sentiment Analysis**
+
+*   **Objective:** To enhance the summarization pipeline with sentiment analysis capabilities, classifying the sentiment of both original articles and their summaries.
+*   **Sentiment Classification:** Positive, Negative, or Neutral.
+*   **Tools & Libraries:**
+    *   Sentiment Analysis Model: `transformers` (Hugging Face, e.g., FinBERT from `ProsusAI/finbert`)
+    *   Data Handling & Preparation: `pandas`, `numpy`
+    *   Text Cleaning: `re`, `nltk`
+    *   Tokenization: `nltk`
+*   **Expected Outcomes:**
+    *   Reliable sentiment classification of text.
+    *   Distinction between degrees of sentiment.
+    *   Correct interpretation of ambiguous financial language.
+    *   Sentiment analysis for both original articles and generated summaries.
+
+## Evaluation Metrics
+
+*   **Summarization Quality:** ROUGE scores
+*   **Sentiment Analysis Accuracy:** F-1 score
+
+## Future Enhancements (Mentioned in Project Description)
+
+*   Data Visualization: Grafana integration for advanced dashboards.
+*   Email Notifications: Sending summaries and sentiment analysis results via email.
+*   Social Listening: Integration with social media data using tools like Meltwater, MentionMind, Obsei.
