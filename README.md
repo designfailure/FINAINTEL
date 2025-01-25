@@ -3,13 +3,6 @@
  https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing
  
 
-<!-- CTA Button -->
-<p align="left">
-  <a href="[https://www.example.com](https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing)" target="_blank">
-    <img src="[Google Colab](https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing)" alt="Visit Website">
-  </a>
-</p>
-
 
 
 "Financial AI and News Intelligence" -  financial news summarization and sentiment analysis pipeline
