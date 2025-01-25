@@ -1,6 +1,6 @@
 # FINAINTEL
 
-[![Google Colab] (https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing)] &ensp;
+[![Google Colab Follow](https://colab.research.google.com/drive/1JBd68_4MjbweeKoi9MXojqOASq_pZT_w?usp=sharing)] &ensp;
 
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) &ensp;
